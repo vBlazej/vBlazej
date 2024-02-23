@@ -1,4 +1,4 @@
 # 🏄 vBlazej 
 
-**'Digital Craftsman'**
+**`Digital Craftsman (Aspiring Data Analyst/Business Analyst/Data Scientist/Backend Developer)`**
 
