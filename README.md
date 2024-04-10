@@ -17,6 +17,8 @@ As a data analyst, I'm dedicated to unraveling the stories hidden within dataset
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="30" height="30"  />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure" alt="Azure" width="30" height="30"  />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"  />
+<img align="left" alt="Reltio" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/R/reltio-logo-4DA92D5653-seeklogo.com.png" title="Reltio" alt="Reltio" width="30" height="30"  />
+<img align="left" alt="Salesforce" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" title="Salesforce" alt="Salesforce" width="30" height="30"  />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" title="Pandas" alt="Pandas" width="30" height="30" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"  />
 <br />
